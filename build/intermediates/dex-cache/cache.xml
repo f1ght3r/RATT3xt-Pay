@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Darius\Desktop\RATT3xt-Pay\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="451b119cc111cf2af42919ce071b65afdf025eca">
+        <dex dex="C:\Users\Darius\Desktop\RATT3xt-Pay\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7079cdac963d23148760faa22e292da5cb57a6e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Darius\Desktop\RATT3xt-Pay\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Darius\Desktop\RATT3xt-Pay\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e1e0ccf7171b06f9cceea14468d96438a502e0aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Darius\.gradle\caches\modules-2\files-2.1\com.github.kenglxn.QRGen\android\2.2.0\a763c9c20b67e0be7ad5d15e6206b85725ff6d54\android-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a763c9c20b67e0be7ad5d15e6206b85725ff6d54">
+        <dex dex="C:\Users\Darius\Desktop\RATT3xt-Pay\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-2.2.0_a6b635b2dcf76552f686e9f61594aaef22a64e3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Darius\.gradle\caches\modules-2\files-2.1\com.github.kenglxn.QRGen\core\2.2.0\5c0463c223d69f9af0a6dbd145ea3967a8cccb21\core-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c0463c223d69f9af0a6dbd145ea3967a8cccb21">
+        <dex dex="C:\Users\Darius\Desktop\RATT3xt-Pay\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-2.2.0_44af7bcafc794aaea0d7adbb5078b0f937c237b7\classes.dex" />
+    </item>
+
+</items>
